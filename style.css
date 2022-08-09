@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+#primeira-imagem{
+height: 100px;
+width: 130px;
+}
+
+.cabecalho{
+    color: black;
+    width: 1189px;
+    height: 100px;
+    background-color: black;
+}
+
+.cabecalho li{
+    display: inline;
+    color: red;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+body{
+    background-color: black;
+    color: aliceblue;
+}
